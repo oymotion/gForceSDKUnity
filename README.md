@@ -1,5 +1,7 @@
 # gForceSDKUnity
 
+**Obsoleted**, please refereence [gforceu3d](https://github.com/oymotion/gforceu3d) instead.
+
 ## ExampleForArm
 Unity3D example using OYMotion arm.
 
